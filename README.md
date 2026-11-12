@@ -54,6 +54,14 @@ Built a two-page interactive dashboard:
 - Sales by Generation
 - Sales by Gender
 
+### Dashboard Preview
+
+#### Sales Overview
+![Sales Overview](screenshots/sales-overview.png)
+
+#### Product & Customer Analysis
+![Product & Customer Analysis](screenshots/product-customer-analysis.png)
+
 ## Key Business Insights
 
 ### Sales Performance
