@@ -26,6 +26,8 @@ The dataset contains multiple tables covering:
 
 **Period Covered:** April 2019
 
+**Dataset Source:** [Coffee Shop Sample Data - Kaggle](https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113)
+
 ## Project Workflow
 
 ### 1. Data Analysis with Python
@@ -61,6 +63,13 @@ Built a two-page interactive dashboard:
 
 #### Product & Customer Analysis
 ![Product & Customer Analysis](screenshots/product-customer-analysis.png)
+
+## Project Files
+
+- [Python Analysis Notebook](Coffee_Shop_Sales_Analysis.ipynb)
+- [Power BI Dashboard](Coffee%20Shop%20Sales%20Analysis.pbix)
+- [Dashboard PDF](Dashboard.pdf)
+- [Project Documentation (PDF)](Project%20Documentation.pdf)
 
 ## Key Business Insights
 
