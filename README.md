@@ -58,7 +58,7 @@ Built a single-page interactive dashboard titled **Coffee Shop Sales**, featurin
 
 ## Dashboard Preview
 
-![Coffee Shop Sales Dashboard](Screenshots/Coffee-Shop-Sales.png)
+![Coffee Shop Sales Dashboard](screenshots/Coffee-Shop-Sales.png)
 
 ## Project Files
 
