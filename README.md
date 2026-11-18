@@ -1,12 +1,12 @@
-Coffee Shop Sales Analysis
+# Coffee Shop Sales Analysis
 
-Project Overview
+## Project Overview
 
 This project analyzes coffee shop sales and inventory data for April 2019 to identify sales trends, product performance, customer patterns, and pastry waste.
 
 The project uses Python for data cleaning and exploratory data analysis, and Power BI to build an interactive dashboard that presents key business insights.
 
-Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -15,7 +15,7 @@ Tools & Technologies
 - DAX
 - Microsoft Excel
 
-Dataset
+## Dataset
 
 The dataset contains multiple tables covering:
 
@@ -28,13 +28,13 @@ The dataset contains multiple tables covering:
 - Sales targets
 - Date and generation information
 
-Period Covered: April 2019
+**Period Covered:** April 2019
 
-Dataset Source: "Coffee Shop Sample Data - Kaggle" (https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113)
+**Dataset Source:** [Coffee Shop Sample Data - Kaggle](https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113)
 
-Project Workflow
+## Project Workflow
 
-1. Data Analysis with Python
+### 1. Data Analysis with Python
 
 - Explored datasets and checked data types.
 - Identified missing values and duplicate records.
@@ -43,9 +43,9 @@ Project Workflow
 - Analyzed sales by product group and time.
 - Examined pastry inventory and recorded waste.
 
-2. Power BI Dashboard
+### 2. Power BI Dashboard
 
-Built a single-page interactive dashboard titled Coffee Shop Sales, featuring:
+Built a single-page interactive dashboard titled **Coffee Shop Sales**, featuring:
 
 - Key Performance Indicators (KPIs)
 - Sales by Product Group
@@ -56,46 +56,46 @@ Built a single-page interactive dashboard titled Coffee Shop Sales, featuring:
 - Product Waste Analysis
 - Sales by Customer Generation and Gender
 
-Dashboard Preview
+## Dashboard Preview
 
-"Coffee Shop Sales Dashboard" (screenshots/Coffee-Shop-Sales.png)
+![Coffee Shop Sales Dashboard](Screenshots/Coffee-Shop-Sales.png)
 
-Project Files
+## Project Files
 
-- "Python Analysis Notebook" (Coffee_Shop_Sales_Analysis.ipynb)
-- "Power BI Dashboard" (Coffee%20Shop%20Sales%20Analysis.pbix)
-- "Dashboard PDF" (Dashboard.pdf)
-- "Project Documentation (PDF)" (Project%20Documentation.pdf)
+- [Python Analysis Notebook](Coffee_Shop_Sales_Analysis.ipynb)
+- [Power BI Dashboard](Coffee%20Shop%20Sales%20Analysis.pbix)
+- [Dashboard PDF](Dashboard.pdf)
+- [Project Documentation (PDF)](Project%20Documentation.pdf)
 
-Key Business Insights
+## Key Business Insights
 
-Sales Performance
+### Sales Performance
 
 - Beverages generated 77.29% of total revenue.
 - Beverages and Food together accounted for 88.82% of total revenue.
 - 10 AM recorded the highest sales revenue and quantity.
 - 11 AM recorded the highest number of distinct transaction IDs.
 
-Customer Analysis
+### Customer Analysis
 
 - Sales associated with customer ID 0 represented 51.07% of total revenue.
 - This indicates a significant portion of sales could not be linked to a known customer profile.
 
-Inventory & Waste Analysis
+### Inventory & Waste Analysis
 
 - Total recorded pastry waste was 4,500 units.
 - Overall waste rate was 60.93% of starting inventory.
 - Ginger Scone accounted for 47.56% of recorded waste.
 - Outlet 5 had the highest overall recorded waste rate at 63.10%.
 
-Limitations
+## Limitations
 
 - The sales dataset covers April 2019 only.
 - Pastry inventory data covers only outlets 3, 5, and 8.
 - Some sales records are not linked to known customer profiles.
 - A difference of 32 units exists between starting inventory and the sum of recorded sold and wasted quantities. The cause could not be confirmed from the available data.
 
-Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end data analysis workflow, from data exploration and preparation using Python to interactive business reporting with Power BI.
 
