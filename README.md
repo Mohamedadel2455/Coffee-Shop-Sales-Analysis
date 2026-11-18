@@ -64,8 +64,8 @@ Built a single-page interactive dashboard titled **Coffee Shop Sales**, featurin
 
 - [Python Analysis Notebook](Coffee_Shop_Sales_Analysis.ipynb)
 - [Power BI Dashboard](Coffee%20Shop%20Sales%20Analsis.pbix)
-- [Dashboard PDF](Dashboard.pdf)
-- [Project Documentation (PDF)](Project%20Documentation.pdf)
+- [Dashboard PDF](Coffee%20Shop%20Sales%20Analsis.pdf)
+- [Project Documentation (PDF)](Coffee_Shop_Sales_Project_Documentation.pdf)
 
 ## Key Business Insights
 
